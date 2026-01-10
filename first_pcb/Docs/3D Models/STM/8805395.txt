@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-02032024-039999";"";
+"REFERENCE";"STM32F407VGT7";"";
+"rs_stock_number";"8805395";"";
+"TraceParts.PartTitle";"32Bit MCU+FPU 1MB Flash USB OTG LQFP100";"";
+"url";"https://uk.rs-online.com/web/p/microcontrollers/8805395//?cm_mmc=aff-_-uk-_-traceparts-_-8805395";"";
+"SUPPLIER_NAME";"RS Components";"";
+"SUPPLIER";"STMicroelectronics";"";
+"DESIGN";"32Bit MCU+FPU 1MB Flash USB OTG LQFP100";"";
+"TraceParts.InstanceId";"90-02032024-0399992N3XX9WWY2MK673V115V3T3RA";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-07092016-111819";"";
+"REFERENCE";"C1206C104K1RACTU";"";
+"rs_stock_number";"4348104";"";
+"TraceParts.PartTitle";"KEMET 1206 (3216M) 100nF Multilayer Ceramic Capacitor MLCC 100V dc ±10% SMD C1206C104K1RACTU";"";
+"SUPPLIER_NAME";"RS Components";"";
+"SUPPLIER";"KEMET";"";
+"DESIGN";"KEMET 1206 (3216M) 100nF Multilayer Ceramic Capacitor MLCC 100V dc ±10% SMD C1206C104K1RACTU";"";
+"TraceParts.InstanceId";"10-07092016-1118191KQ1OT7FGIKRBPQF27KIG8GJ4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.7";"";

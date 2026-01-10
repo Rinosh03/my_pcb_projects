@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=+9V Pin=P1-2
+Removed Pin From Net: NetName=+3.3V Pin=P2-1
+Removed Pin From Net: NetName=SWDIO Pin=P2-2
+Removed Pin From Net: NetName=SWCLK Pin=P2-3
+Removed Pin From Net: NetName=GND Pin=P2-4
+Removed Pin From Net: NetName=BOOT Pin=P3-2
+Removed Pin From Net: NetName=GND Pin=P3-3
+Removed Member From Class: ClassName=PowerSupply Member=P1
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X2H New Footprint=MY_FE16
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X3H New Footprint=My_1X04
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X4H New Footprint=MY_FE14
+Change Component Comment : Designator=P1 Old Comment=Battery Connection 9V New Comment=Header 16
+Change Component Comment : Designator=P3 Old Comment=Header 3H New Comment=Header 4
+Change Component Comment : Designator=P2 Old Comment=Header 4H New Comment=Header 14
+Change component parameters: Designator = "P2" ("P2"); Footprint = "HDR1X4H"; UniqueID = "\FNJBVAFQ" ("\FNJBVAFQ")
+Change component parameters (AddParameter): Name = "ASiD Part Number"; Value = "Header 14-AS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3" ("P3"); Footprint = "HDR1X3H"; UniqueID = "\DSBYNPSL" ("\DSBYNPSL")
+Change component parameters (AddParameter): Name = "ASiD Part Number"; Value = "Header 4-AS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1" ("P1"); Footprint = "HDR1X2H"; UniqueID = "\QPTBZOAB" ("\QPTBZOAB")
+Change component parameters (AddParameter): Name = "ASiD Part Number"; Value = "Header 16-AS"; VariantName = "[No Variations]"
+Added Component: Designator=P4(My_1X03)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 3-AS"; VariantName = "[No Variations]"
+Added Component: Designator=P5(My_1X03)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 3-AS"; VariantName = "[No Variations]"
+Added Component: Designator=P6(My_1X02)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 2-AS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SWDIO Pin=P3-2
+Added Pin To Net: NetName=SWCLK Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Pin To Net: NetName=+3.3V Pin=P5-1
+Added Pin To Net: NetName=BOOT Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=+9V Pin=P6-2
+Added Member To Class: ClassName=MCU Member=Component P1 Header 16
+Added Member To Class: ClassName=MCU Member=Component P4 Header 3
+Added Member To Class: ClassName=MCU Member=Component P5 Header 3
+Added Member To Class: ClassName=PowerSupply Member=Component P6 Header 2

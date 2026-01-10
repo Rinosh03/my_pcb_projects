@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-17072017-089706";"";
+"REFERENCE";"T494B106K010AT";"";
+"TraceParts.ClassPath";"";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TraceParts.InstanceId";"10-17072017-089706DAO0JYFR8G69LP79TSYWQBKFO";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"Capacitor Tantalum SMT 10uF 10V";"";
+"SUPPLIER";"KEMET";"";
+"DESIGN";"Capacitor Tantalum SMT 10uF 10V";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";

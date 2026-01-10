@@ -151,30 +151,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JHBYKRJW
 
-[Document7]
-DocumentPath=First-PCB-Project.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Parameter1]
-Name=Start Date
-Value=01/07/2026
-
-[Parameter2]
 Name=Designer
 Value=Rinosh Baskaran
+
+[Parameter2]
+Name=Start Date
+Value=01/07/2026
 
 [Configuration1]
 Name=Sources
