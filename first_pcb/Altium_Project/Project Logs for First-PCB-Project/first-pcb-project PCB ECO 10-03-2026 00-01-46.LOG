@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+9V Pin=U1-0
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=+3.3V Pin=U1-2
+Removed Pin From Net: NetName=+3.3V Pin=U1-2
+Removed Member From Class: ClassName=PowerSupply Member=U1
+Added Component: Designator=U?(4-pin SOT)
+Add component (AddParameter): Name = "Component Name"; Value = "lm1117"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/lit/ds/symlink/lm1117.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments (TI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+9V Pin=U?-0
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=+3.3V Pin=U?-2
+Added Pin To Net: NetName=+3.3V Pin=U?-2
+Added Member To Class: ClassName=PowerSupply Member=Component U? LM1117 800-mA, Low-Dropout Linear Regulator
+Added Room: Name=MCU
+Added Room: Name=PowerSupply
