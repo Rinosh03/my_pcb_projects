@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-17012020-065407";"";
+"REFERENCE";"ATMEGA328-PU";"";
+"TraceParts.PartTitle";"Integrated Circuit Dual-In-Line Packages - ATMEGA328-PU, ATMEGA328P-PU, ATMEGA8L-8PU";"";
+"TraceParts.InstanceId";"33-17012020-065407EQD0LYRW02P3IAW1GS1N5TF7W";"";
+"SUPPLIER";"Microchip Technology Inc.";"";
+"DESIGN";"Integrated Circuit Dual-In-Line Packages - ATMEGA328-PU";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.3.4";"";
