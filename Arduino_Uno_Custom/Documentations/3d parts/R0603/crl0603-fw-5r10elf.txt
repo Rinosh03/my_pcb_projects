@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-26052016-099421";"";
+"REFERENCE";"CRL0603-FW-5R10ELF";"";
+"rs_stock_number";"7944095";"";
+"TraceParts.PartTitle";"Bourns 5.1Ω 0603 (1608M) Thick Film SMD Resistor ±1% 0.1W - CRL0603-FW-5R10ELF";"";
+"SUPPLIER_NAME";"RS Components";"";
+"SUPPLIER";"Bourns Electronics";"";
+"DESIGN";"Bourns 5.1Ω 0603 (1608M) Thick Film SMD Resistor ±1% 0.1W - CRL0603-FW-5R10ELF";"";
+"TraceParts.InstanceId";"10-26052016-099421CYOIZPCJQ3KJT1KPO1IL2L6AT";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.5";"";
