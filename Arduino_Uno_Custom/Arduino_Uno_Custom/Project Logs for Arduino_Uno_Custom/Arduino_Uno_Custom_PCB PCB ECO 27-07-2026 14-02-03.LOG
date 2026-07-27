@@ -1,0 +1,4 @@
+Added Component: Designator=J8(PAD_WITH_A_HOLE_4MM_1.5MM)
+Added Component: Designator=J9(PAD_WITH_A_HOLE_4MM_1.5MM)
+Added Pin To Net: NetName=+5V Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J9-1

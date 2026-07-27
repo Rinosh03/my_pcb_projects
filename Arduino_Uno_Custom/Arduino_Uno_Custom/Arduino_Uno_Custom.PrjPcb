@@ -59,7 +59,7 @@ AnnotateScope=All
 AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -100,7 +100,49 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MIYUPJWA
 
+[Document4]
+DocumentPath=Custom_Atmega_328p_jobfile.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=Arduino_Uno_Custom_PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FQDPMGYX
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Arduino_Uno_Custom\BOM\Bill of Materials-Arduino_Uno_Custom.xls
+DItemRevisionGUID=
+
 [Parameter1]
+Name=Title
+Value=Custom ATmega 328p
+
+[Parameter2]
 Name=NotFitted
 Value=NF
 
